@@ -1,3 +1,5 @@
+This project should be used for educational purposes and adapted for your own use.
+
 # Porto Child Theme Starter Files (Magento 2)
 
 These are the starter files that you will need in order to create your own Porto Child Theme. Once these starter files are in place, it will allow you to create customisations on top of the Luma theme that comes packaged with Magento 2.
